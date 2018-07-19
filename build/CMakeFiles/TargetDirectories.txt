@@ -1,0 +1,3 @@
+/home/zn/sfm-two/build/CMakeFiles/rebuild_cache.dir
+/home/zn/sfm-two/build/CMakeFiles/edit_cache.dir
+/home/zn/sfm-two/build/CMakeFiles/sfm.dir
